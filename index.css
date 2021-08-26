@@ -80,6 +80,7 @@
 .dropdown-item:hover{
   background-color: white;
 }
+
 .preloader {
   position: fixed;
   width: 100%;
@@ -91,7 +92,7 @@
   align-items: center;
 }
 .preloader img {
-  animation: spin 3s ease;
+  animation: spin 2s ease;
   transition: all;
   width: 150px;
   margin: 0 auto;
